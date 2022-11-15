@@ -1,0 +1,32 @@
+{
+  "files": {
+    "Function.h": [
+      {
+        "id": "4eb8ada9-3870-4065-a038-89b0bf6b2e97",
+        "line": 10,
+        "version": 322,
+        "index": 216
+      }
+    ],
+    "main.cpp": [
+      {
+        "id": "f3804601-9ec6-42e1-a0c2-99ee233d8d85",
+        "line": 17,
+        "version": 3232,
+        "index": 377
+      },
+      {
+        "id": "f5e546c1-e000-4b86-a4e4-41eccae78fb0",
+        "line": 17,
+        "version": 3232,
+        "index": 377
+      },
+      {
+        "id": "46d9da92-e6c8-485c-9c78-175474d001d6",
+        "line": 60,
+        "version": 3232,
+        "index": 1709
+      }
+    ]
+  }
+}
